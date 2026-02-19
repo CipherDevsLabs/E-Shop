@@ -81,7 +81,7 @@ ecommerce-frontend/
 
 ```bash
 # Clone the repository
-git clone [https://github.com/your-username/ecommerce-frontend.git](https://github.com/CipherDevsLabs/E-Shop.git)
+git clone [https://github.com/CipherDevsLabs/E-Shop]
 cd ecommerce-frontend
 
 # Install dependencies
