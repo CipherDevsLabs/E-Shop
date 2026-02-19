@@ -81,8 +81,8 @@ ecommerce-frontend/
 
 ```bash
 # Clone the repository
-git clone [https://github.com/CipherDevsLabs/E-Shop]
-cd ecommerce-frontend
+git clone https://github.com/CipherDevsLabs/E-Shop
+cd E-Shop
 
 # Install dependencies
 npm install
